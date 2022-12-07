@@ -21,4 +21,3 @@ git branch //显示分支一览表
 git checkout -b //以当前分支为基础创建并切换新分支
 
 git remote add origin https://github.com/zrr12138/gitStudy //添加远程仓库
-
